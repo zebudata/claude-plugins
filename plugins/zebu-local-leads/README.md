@@ -25,9 +25,9 @@ Example requests:
 
 The skills use six scrapers ("Actors") that Zebu Data publishes on the Apify platform:
 
-- [Google Maps Data Scraper](https://apify.com/delicious_zebu/google-maps-data-scraper?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
+- [Google Maps Scraper - Business Leads, Phones & Websites](https://apify.com/delicious_zebu/google-maps-data-scraper?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
 - [YellowPages Scraper - USA Business Leads](https://apify.com/delicious_zebu/yellowpages-usa-business-lead-scraper?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
-- [YellowPages.ca Business Data Scraper](https://apify.com/delicious_zebu/yellowpages-ca-business-data-scraper?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
+- [YellowPages Canada Scraper - Business Leads & Phones](https://apify.com/delicious_zebu/yellowpages-ca-business-data-scraper?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
 - [YellowPages Australia Lead Generator](https://apify.com/delicious_zebu/yellowpages-australia-lead-generator?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
 - [Yelp Scraper - Business Leads, Phones & Websites](https://apify.com/delicious_zebu/yelp-advanced-business-scraper-pay-per-result?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
 - [Contact Info Scraper](https://apify.com/delicious_zebu/contact-info-scraper?utm_source=github&utm_medium=claude-plugin&utm_campaign=local-leads)
