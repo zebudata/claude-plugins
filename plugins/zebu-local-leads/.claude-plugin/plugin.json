@@ -1,0 +1,26 @@
+{
+  "name": "zebu-local-leads",
+  "displayName": "Local Business Leads",
+  "version": "0.1.0",
+  "description": "Build local B2B lead lists: find businesses in any city on Google Maps, plus Yellow Pages (US, Canada, Australia) and Yelp, remove duplicates, and add emails, phones and social links from their websites. Runs on Apify; usage is billed to your own Apify account.",
+  "author": {
+    "name": "Zebu Data",
+    "url": "https://github.com/zebudata"
+  },
+  "homepage": "https://github.com/zebudata/claude-plugins/tree/main/plugins/zebu-local-leads",
+  "repository": "https://github.com/zebudata/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "lead-generation",
+    "local-business",
+    "b2b",
+    "prospecting",
+    "google-maps",
+    "yellow-pages",
+    "yelp",
+    "email-finder",
+    "contact-enrichment",
+    "apify",
+    "web-scraping"
+  ]
+}
